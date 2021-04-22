@@ -103,4 +103,4 @@ ENV/
 src/workspace/images
 
 #json annotations
-src/workspace/annotations/json/
+src/workspace/annotations/json
