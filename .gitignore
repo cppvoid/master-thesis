@@ -104,3 +104,6 @@ src/workspace/images
 
 #json annotations
 src/workspace/annotations/json
+
+#annotations
+src/workspace/annotations/
